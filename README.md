@@ -10,19 +10,19 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-0.115-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue-3-42b883?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.115-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Vue](https://img.shields.io/badge/Vue-3-42b883?style=for-the-badge&logo=vuedotjs&logoColor=white)](https://vuejs.org/)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
 
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Element Plus](https://img.shields.io/badge/Element%20Plus-409EFF?style=for-the-badge&logo=element&logoColor=white)
-![Frappe Gantt](https://img.shields.io/badge/FrappeGantt-1.2.2-67c23a?style=for-the-badge)
-![Local First](https://img.shields.io/badge/Local%20First-%E2%9C%93%20%E6%97%A0%E4%BA%91%E4%BE%9D%E8%B5%96-16324F?style=for-the-badge)
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
+[![Element Plus](https://img.shields.io/badge/Element%20Plus-409EFF?style=for-the-badge&logo=element&logoColor=white)](https://element-plus.org/)
+[![Frappe Gantt](https://img.shields.io/badge/FrappeGantt-1.2.2-67c23a?style=for-the-badge)](https://frappe.io/gantt)
+[![Local First](https://img.shields.io/badge/Local%20First-%E2%9C%93%20%E6%97%A0%E4%BA%91%E4%BE%9D%E8%B5%96-16324F?style=for-the-badge)](https://github.com/DonaldTrump-coder/WayPoint)
 
 [![Author](https://img.shields.io/badge/Author-Haojun%20Tang-16324F?style=for-the-badge&logo=github&logoColor=white)](https://donaldtrump-coder.github.io/)
-![Stars](https://img.shields.io/github/stars/DonaldTrump-coder/WayPoint?style=for-the-badge&logo=github&logoColor=white&color=ffd700)
-![License](https://img.shields.io/badge/License-MIT-4caf50?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
+[![Stars](https://img.shields.io/github/stars/DonaldTrump-coder/WayPoint?style=for-the-badge&logo=github&logoColor=white&color=ffd700)](https://github.com/DonaldTrump-coder/WayPoint)
+[![License](https://img.shields.io/badge/License-MIT-4caf50?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://opensource.org/license/mit)
 
 **数据 100% 保存在本地 SQLite** · 无账号 · 无云依赖 · 无隐私顾虑
 
