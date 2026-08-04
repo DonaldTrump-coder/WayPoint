@@ -3,9 +3,9 @@
 [![English](https://img.shields.io/badge/English-ffffff?style=for-the-badge&logo=googletranslate&logoColor=16324F)](https://github.com/DonaldTrump-coder/WayPoint/blob/main/README.md)
 ![中文](https://img.shields.io/badge/%E4%B8%AD%E6%96%87-16324F?style=for-the-badge&logo=googletranslate&logoColor=white)
 
-<img src="icon.png" alt="Waypoint" width="96" style="border-radius: 20px" />
+<img src="icon.png" alt="WayPoint" width="96" style="border-radius: 20px" />
 
-# 🧭 Waypoint
+# 🧭 WayPoint
 
 **本地个人项目管理 · 看板流转 · 甘特时间线 · AI Copilot 自然语言操控**
 
@@ -33,7 +33,7 @@
 
 ---
 
-**Waypoint** 是运行在你本机的一套项目管理系统：**看板**管任务流转、**甘特图**管时间线、**AI Copilot** 用自然语言操控一切。项目是一次航程，任务是航线上的航路点——进度条就是航行到达的位置。
+**WayPoint** 是运行在你本机的一套项目管理系统：**看板**管任务流转、**甘特图**管时间线、**AI Copilot** 用自然语言操控一切。项目是一次航程，任务是航线上的航路点——进度条就是航行到达的位置。
 
 - 💻 **纯本地运行**：SQLite 单文件数据库，拷贝即迁移，卸载/升级不丢数据
 - 🤖 **AI 加持**：接入你自己的 API Key（DeepSeek / OpenAI / GLM / Ollama 均可），自然语言建任务、改状态、写笔记
@@ -124,7 +124,7 @@ WAYPOINT_PORT=8700 python app.py    # 后端与前端托管改到 :8700
 
 ## 📦 打包发布
 
-把 Waypoint 打成单文件 exe 和 Windows 安装包（数据与程序分离：程序装到安装目录，数据存**安装目录下 `data\` 子目录**——装到哪数据就在哪，不写 C 盘/APPDATA；升级/卸载不丢数据）。
+把 WayPoint 打成单文件 exe 和 Windows 安装包（数据与程序分离：程序装到安装目录，数据存**安装目录下 `data\` 子目录**——装到哪数据就在哪，不写 C 盘/APPDATA；升级/卸载不丢数据）。
 
 ### 前置条件
 
@@ -161,7 +161,7 @@ WAYPOINT_PORT=8700 python app.py    # 后端与前端托管改到 :8700
 - **中文向导**（可选安装路径，默认 `C:\Program Files\Waypoint`）
 - 开始菜单含程序 + 「使用说明」（README-Waypoint.txt）
 - **数据保护**：数据存 `%APPDATA%\Waypoint`，与程序分离；卸载时弹窗询问是否删除数据，**默认保留**
-- 卸载前自动结束运行中的 Waypoint 进程
+- 卸载前自动结束运行中的 WayPoint 进程
 
 ### 数据目录解析规则（打包/安装后）
 

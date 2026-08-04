@@ -3,13 +3,11 @@
 ![English](https://img.shields.io/badge/English-16324F?style=for-the-badge&logo=googletranslate&logoColor=white)
 [![中文](https://img.shields.io/badge/%E4%B8%AD%E6%96%87-ffffff?style=for-the-badge&logo=googletranslate&logoColor=16324F)](https://github.com/DonaldTrump-coder/WayPoint/blob/main/README.zh-CN.md)
 
-<img src="icon.png" alt="Waypoint" width="96" style="border-radius: 20px" />
+<img src="icon.png" alt="WayPoint" width="96" style="border-radius: 20px" />
 
-# 🧭 Waypoint
+# 🧭 WayPoint
 
 **Local-first personal project management · Kanban flow · Gantt timeline · AI Copilot**
-
-> Every task is a waypoint, every completion is an arrival.
 
 </div>
 
@@ -35,7 +33,7 @@
 
 ---
 
-**Waypoint** is a project management system that runs entirely on your machine: a **Kanban board** for task flow, a **Gantt chart** for timelines, and an **AI Copilot** that understands natural language. A project is a voyage, tasks are waypoints along the route — and your progress bar shows how far you've sailed.
+**WayPoint** is a project management system that runs entirely on your machine: a **Kanban board** for task flow, a **Gantt chart** for timelines, and an **AI Copilot** that understands natural language. A project is a voyage, tasks are waypoints along the route — and your progress bar shows how far you've sailed.
 
 - 💻 **Local-first**: single-file SQLite database. Copy the folder and you've migrated; uninstall/upgrade never loses data
 - 🤖 **AI-powered**: bring your own API key (DeepSeek / OpenAI / GLM / Ollama), manage tasks, statuses and notes in plain language
@@ -126,7 +124,7 @@ WAYPOINT_PORT=8700 python app.py    # serve backend + frontend on :8700
 
 ## 📦 Packaging & Releases
 
-Package Waypoint into a standalone exe and a Windows installer (data lives separately from the program: install directory for the app, **`data\` subfolder next to the exe** for data — data stays where you install, never touches C: / APPDATA; survives upgrade/uninstall).
+Package WayPoint into a standalone exe and a Windows installer (data lives separately from the program: install directory for the app, **`data\` subfolder next to the exe** for data — data stays where you install, never touches C: / APPDATA; survives upgrade/uninstall).
 
 ### Prerequisites
 
@@ -161,7 +159,7 @@ Installer features:
 - **Chinese wizard** (choose install path; default `C:\Program Files\Waypoint`)
 - Start menu entries: app + "使用说明" (README-Waypoint.txt)
 - **Data protection**: data lives in `data\` next to the exe; uninstall asks whether to delete data — **kept by default**
-- Kills a running Waypoint before uninstalling
+- Kills a running WayPoint before uninstalling
 
 ### Data directory resolution
 
