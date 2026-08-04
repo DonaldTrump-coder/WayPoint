@@ -1,10 +1,10 @@
 <div align="center">
 
+<img src="icon.png" alt="Waypoint" width="96" style="border-radius: 20px" />
+
 # 🧭 Waypoint
 
 **本地个人项目管理 · 看板流转 · 甘特时间线 · AI Copilot 自然语言操控**
-
-> 每个任务都是一个航路点，每次完成都是一次抵达。
 
 </div>
 
