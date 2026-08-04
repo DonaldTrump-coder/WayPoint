@@ -1,0 +1,41 @@
+waypoint.db
+*.db
+*.sqlite
+backups/
+*.bak
+
+# ===== Python =====
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+envtest/
+*.egg-info/
+.pytest_cache/
+
+# ===== frontend =====
+node_modules/
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# ===== build =====
+dist/
+build/
+*.spec.bak
+packaging/tools/
+packaging/test-install/
+
+# ===== development =====
+.edge-debug/
+*.log
+cdp_*.js
+hermes-verify-*.py
+
+# ===== IDE / system =====
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
