@@ -20,7 +20,7 @@
 ![Frappe Gantt](https://img.shields.io/badge/FrappeGantt-1.2.2-67c23a?style=for-the-badge)
 ![Local First](https://img.shields.io/badge/Local%20First-%E2%9C%93%20%E6%97%A0%E4%BA%91%E4%BE%9D%E8%B5%96-16324F?style=for-the-badge)
 
-![Author](https://img.shields.io/badge/Author-Haojun%20Tang-16324F?style=for-the-badge&logo=github&logoColor=white)
+[![Author](https://img.shields.io/badge/Author-Haojun%20Tang-16324F?style=for-the-badge&logo=github&logoColor=white)](https://donaldtrump-coder.github.io/)
 ![Stars](https://img.shields.io/github/stars/DonaldTrump-coder/WayPoint?style=for-the-badge&logo=github&logoColor=white&color=ffd700)
 ![License](https://img.shields.io/badge/License-MIT-4caf50?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
 
