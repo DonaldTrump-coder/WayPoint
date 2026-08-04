@@ -291,4 +291,4 @@ curl http://127.0.0.1:8600/api/health    # → {"status":"ok"}
 
 ## 📄 许可证
 
-MIT
+[MIT](LICENSE)
